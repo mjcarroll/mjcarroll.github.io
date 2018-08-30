@@ -1,0 +1,72 @@
+==================================================================
+https://keybase.io/mjcarroll
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://mjcarroll.io
+  * I am mjcarroll (https://keybase.io/mjcarroll) on keybase.
+  * I have a public key with fingerprint 2563 C95A 3E91 2C22 9D33  91DA 65B3 DFF1 F3EF 84DD
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01012aa1fd3b878b5dcc72e475b3a7955d0a81f3b241d5cea32f619abab5e419466e0a",
+      "fingerprint": "2563c95a3e912c229d3391da65b3dff1f3ef84dd",
+      "host": "keybase.io",
+      "key_id": "65b3dff1f3ef84dd",
+      "kid": "01012aa1fd3b878b5dcc72e475b3a7955d0a81f3b241d5cea32f619abab5e419466e0a",
+      "uid": "74741bb29a56c7b001c524a372350300",
+      "username": "mjcarroll"
+    },
+    "service": {
+      "hostname": "mjcarroll.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1533916706,
+  "expire_in": 157680000,
+  "prev": "4722328f1b75443d697d43bd60bbeef7d662ce3df77e724ec2d5316482daa3ef",
+  "seqno": 80,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+
+owGtkm1MFFcUhheKihsoBdE0qChTa0rd2vme2YXaCEIrCqUkaMtql/m4ww677Cwz
+A7JSLJWIErCUBWJrCAbKh7tpi4W0qFUwRiqItZUSi0lTNSYoUUloVhAItTO0/mn6
+s/fPzT33Pc89573n0/DnDMagP4z9STGiRAYNT7AGa8F3G0shVuI9kKUUcoDFDTh5
+oKg2h8hDFghGYARlGETgMZamaJbgOY5CAU4RLMZQZoLgYYZGBIxFcYQnOMBgqEAi
+ZoZlWALgiBknSQAzkAkSRFcekN2y6FI1LEqQGGcmGAyYEZRDUTOPYWaEZ0gNywuC
+BgQCjfO8lmiXFD1DK45lFLBZlLSYdrAtlvcf+v+57qJFHIVTOMKyqJkhSI5iYRjh
+CBRnMArFCBiDYV2oANnFFABNXZDPMbIsOZ1QmQnSwsUiB3Rn9Vb+Lfm7IbcsqRIn
+ObUbu6q6FYueqXrcunQfYG3/QGys6OI1I7WMYiArouSCLIim5FRRpyKE7iJJwaQJ
+AiVuUQY2UVcQFEnD2tLfAcUaEqdQFENzaAFhKQLHMZ40UzyOsTwJsywAAsWTJMoB
+zVqKAhSKAw7lCQwhcRrlGe3TBEjvq9AlQRZao6pMngZVxDwXoxbJACozVgVjIYYg
+o2HtqriQwfaxY4mej1ewN3+49Gz6lgTro2cwLn/hWQRaHvHU+U7Zo6TcpUOmhtLP
+HxxJ8Ia9kXQvOiKhfL4nza3OW2eqOnom/L/bqrCpZbWHH6c5U57sTL5umzg693Nz
+YGjTndu1Y96z++6GKUMtLUrDb5mBzPjEQF813WKHkVe+qh6rHzk0v9814+tL2NKV
+fUnanH45+gvFefXAQwjdRnf1+IYnIlNT2nJaDFmeXv9jT+xIx0l71oGp0oZf5749
+t6YXq50edJzYdSWQ/4G7OzLEOlwT+ORRRnH9pmVvnrRKTZT9pfOpH7X1cZnHg7da
+fXm9I7/cvzFQs/FIdrTcUX1r/Fwvv+O1tD34wmfne1xF+2s7u7dk963+slI8VDMz
+Sg3UZTXdLt+Lphn8voqpoNmL7TGVaCHakHFKXrJtNJ5wlLzd+nyOsLT/z8L13885
+yq3s4FC5pXVd8vHpurDTuwKp05Oh8WvHrw9734/KTUCaQtpfjXm5KXHccHmy65p/
+58NIwvSic8X4T1ubA1HX7mHd733YfaE+1xH7YGSWPpH47vaRkuobFVf8OeHNEzvy
+GyeNeLwaGIi78/qZmB+PSW2+dELoP7zO3ZkyG7mmbv2eg+F+b1PETdeFu99sXwgN
+s3tXxp7K5zMsYlxEKFj11AS1nlHin1TwUWffavw6sbOkce/pwfDK1bRAbLjVfX94
+ZcpBOx17Ud2d7nEmJF+d8XEbFkZ3e3r/Ag==
+=Fy74
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/mjcarroll
+
+==================================================================

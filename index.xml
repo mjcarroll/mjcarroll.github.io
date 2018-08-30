@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Michael Carroll</title>
+    <link>https://mjcarroll.io/</link>
+    <description>Recent content on Michael Carroll</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 30 Aug 2018 12:58:28 -0500</lastBuildDate>
+    
+	<atom:link href="https://mjcarroll.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hello World</title>
+      <link>https://mjcarroll.io/blog/hello-world/</link>
+      <pubDate>Thu, 30 Aug 2018 12:58:28 -0500</pubDate>
+      
+      <guid>https://mjcarroll.io/blog/hello-world/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://mjcarroll.io/about/</link>
+      <pubDate>Thu, 30 Aug 2018 12:48:50 -0500</pubDate>
+      
+      <guid>https://mjcarroll.io/about/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
