@@ -9,6 +9,7 @@ theme = "cocoa"
 author = "Michael Carroll"
 title = "Michael Carroll"
 pygmentsuseclasses  = true
+googleAnalytics = "UA-126104919-1"
 
 [permalinks]
 blog  = "blog/:slug/"
