@@ -6,7 +6,7 @@ title: "Talks and Publications"
 
 **Impact of ROS 2 Node Composition in Robotic Systems** \
 Steve Macenski and Alberto Soragna and Michael Carroll and Zhenpeng Ge \
-IEEE Robotics and Automation Letters, 2023 \
+[IEEE Robotics and Automation Letters](https://www.ieee-ras.org/publications/ra-l/), 2023 \
 [arxiv](https://arxiv.org/abs/2305.09933)
 
 
