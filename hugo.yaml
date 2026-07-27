@@ -1,0 +1,65 @@
+baseURL: https://mjcarroll.io/
+locale: en-US
+title: Michael Carroll
+copyright: "© Michael Carroll"
+paginate: 5
+theme: ["PaperMod"]
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+enableEmoji: true
+pygmentsUseClasses: true
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+menu:
+  main:
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 10
+    - identifier: projects
+      name: Projects
+      url: /projects/
+      weight: 20
+    - identifier: talks
+      name: Talks
+      url: /talks/
+      weight: 30
+
+params:
+  env: production
+  keywords: [Blog, Portfolio]
+  defaultTheme: dark
+  profileMode:
+    enabled: true
+    title: "Michael Carroll"
+    subtitle: "Robot Whisperer"
+    imageUrl: "https://www.gravatar.com/avatar/8183efb701b28e3b68fe8d58096e63e9"
+    imageTitle: "Michael Carroll"
+    imageWidth: 120
+    imageHeight: 120
+    buttons:
+      - name: About
+        url: "/about"
+      - name: Projects
+        url: "/projects"
+      - name: Talks
+        url: "/talks"
+
+  socialIcons:
+    - name: github
+      url: "https://github.com/mjcarroll"
+    - name: twitter
+      url: "https://twitter.com/carromj"
+    - name: linkedin
+      url: "https://linkedin.com/in/carromj"
+    - name: keybase
+      url: "https://keybase.io/mjcarroll"
+    - name: email
+      url: "mailto:carroll.michael@gmail.com"
