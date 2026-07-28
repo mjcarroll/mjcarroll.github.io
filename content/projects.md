@@ -4,6 +4,40 @@ title: "Projects"
 
 A selection of independent and side projects outside of my primary roles.
 
+## Huntsville Budget Explorer (2026)
+
+Interactive visualizations of the City of Huntsville, Alabama's municipal budget, built from the city's own Annual
+Comprehensive Financial Reports: a Sankey diagram of revenue-to-expenditure flow, a zoomable income/expense treemap,
+fund balance and reserve tracking, debt and capital spending, and a Huntsville City Schools financial breakdown,
+spanning FY2016-FY2035 (including planned capital spending).
+
+[Website](https://mjcarroll.io/huntsville-budget/)
+[GitHub](https://github.com/mjcarroll/huntsville-budget)
+
+## Poolboy (2026)
+
+A multi-tenant web application for tracking pool water chemistry, maintenance actions, and parameter history over
+time.
+
+[Website](https://poolboy.fly.dev)
+
+## Madison Incident Data (2019-present)
+
+Scrapes incident and arrest report PDFs published by the City of Madison, Alabama Police Department, extracts
+structured records, geocodes them, and publishes a static site with an interactive crime heatmap. Originated from a
+hackathon effort and revived with a modernized, automated data pipeline.
+
+[Website](https://mjcarroll.io/madisoncrimes/)
+[GitHub](https://github.com/mjcarroll/madisoncrimes)
+
+## HSV.Beer (2019-present)
+
+A site to find draft beer on tap across Huntsville-area breweries and taprooms, aggregating listings from Untappd,
+TapHunter, and other sources. Contributor to the Nuxt-based frontend since 2019.
+
+[Website](https://hsv.beer)
+[GitHub](https://github.com/hsv-dot-beer/hsvdotbeer-nuxt)
+
 ## Search and Text You (2017)
 
 Won grand prize at a hackathon sponsored by the [National Geospatial-Intelligence Agency](https://www.nga.mil/news/NGA_hacks_Huntsville_seeks_solutions_for_natural_d.html) and the City of Huntsville, focused on
