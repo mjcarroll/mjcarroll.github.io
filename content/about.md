@@ -9,7 +9,7 @@ title: "Resume"
 (Feb 2026 -- Present) \
 _San Jose, California_
 
-* Contributing to [KUKA AMP](https://www.kuka.com/en-us/company/press/news/2026/03/kuka-amp-nvidia-gtc), an automation management platform that orchestrates robots, fleets, work cells, and digital twins across factories, warehouses, and commercial environments.
+* Contributing to [KUKA AMP](https://www.kuka.com/en-us/company/press/news/2026/03/kuka-amp-nvidia-gtc), a new platform for managing fleets of robots and other automation equipment on a factory floor.
 
 [intrinsic.ai](https://intrinsic.ai) \
 **Staff Software Engineer** 

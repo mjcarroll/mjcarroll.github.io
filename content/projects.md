@@ -6,10 +6,9 @@ A selection of independent and side projects outside of my primary roles.
 
 ## Huntsville Budget Explorer (2026)
 
-Interactive visualizations of the City of Huntsville, Alabama's municipal budget, built from the city's own Annual
-Comprehensive Financial Reports: a Sankey diagram of revenue-to-expenditure flow, a zoomable income/expense treemap,
-fund balance and reserve tracking, debt and capital spending, and a Huntsville City Schools financial breakdown,
-spanning FY2016-FY2035 (including planned capital spending).
+Interactive visualizations of the City of Huntsville, Alabama's municipal budget, built by hand from the city's own
+Annual Comprehensive Financial Reports. Covers revenue and spending flow, fund balances, debt, and a look at
+Huntsville City Schools' own finances, from FY2016 through the FY2035 capital plan.
 
 [Website](https://mjcarroll.io/huntsville-budget/)
 [GitHub](https://github.com/mjcarroll/huntsville-budget)
@@ -23,17 +22,17 @@ time.
 
 ## Madison Incident Data (2019-present)
 
-Scrapes incident and arrest report PDFs published by the City of Madison, Alabama Police Department, extracts
-structured records, geocodes them, and publishes a static site with an interactive crime heatmap. Originated from a
-hackathon effort and revived with a modernized, automated data pipeline.
+Scrapes incident and arrest report PDFs published by the City of Madison, Alabama Police Department, geocodes them,
+and publishes a static site with an interactive crime heatmap. Started as a 2019 hackathon project; I rebuilt it
+in 2026 with an automated weekly pipeline.
 
 [Website](https://mjcarroll.io/madisoncrimes/)
 [GitHub](https://github.com/mjcarroll/madisoncrimes)
 
 ## HSV.Beer (2019-present)
 
-A site to find draft beer on tap across Huntsville-area breweries and taprooms, aggregating listings from Untappd,
-TapHunter, and other sources. Contributor to the Nuxt-based frontend since 2019.
+A site to find draft beer on tap across Huntsville-area breweries and taprooms, pulling in listings from Untappd,
+TapHunter, and other sources. I've contributed to the Nuxt-based frontend since 2019.
 
 [Website](https://hsv.beer)
 [GitHub](https://github.com/hsv-dot-beer/hsvdotbeer-nuxt)
@@ -44,7 +43,7 @@ Won grand prize at a hackathon sponsored by the [National Geospatial-Intelligenc
 flood-related disaster response.
 
 The winning concept was an Android app that overlaid GPS positions transmitted via text message in augmented reality,
-designed for scenarios where bandwidth is limited and, in high flood waters, recognizable landmarks may be obscured.
+since bandwidth would be limited and, in high flood waters, recognizable landmarks might be underwater.
 
 [Highlight video](https://www.expeditionhacks.com/rocket-city-huntsville#winners-and-highlight-video)
 
@@ -78,6 +77,24 @@ Assisted a friend and former coworker with development for a Kickstarter campaig
 Set up a fleet of 14 [TurtleBots](https://en.wikipedia.org/wiki/TurtleBot) and taught an introductory course on ROS during MIT's Independent Activities Period.
 
 [Course Posting](https://web.mit.edu/iap/www/iap13/searchiap/iap-BD6D0CF8E31DB284E0400312852F4A61.html)
+
+## Auburn AutoMow (2009-2012)
+
+Competed for four years with Auburn University's team in the [Institute of Navigation Autonomous Lawn Mower
+Competition](http://www.ion.org/satdiv/lawnmower.cfm) (now defunct), building an autonomous mowing robot. Placed 3rd
+in the Dynamic category in 2010 and 2nd in 2011.
+
+[Source code](https://github.com/Auburn-Automow)
+[2012 report](https://www.dropbox.com/s/p7n4gwlpoldmb9k/Auburn_Automow_Report_2012.pdf?dl=0)
+[2012 qualification video](http://www.youtube.com/watch?v=7TJnGUTw9OY)
+
+## IEEE SoutheastCon Hardware Competition (2008-2009)
+
+Built an autonomous recycling-sorting robot for the [IEEE Southeastern Conference Student Hardware
+Competition](http://web.archive.org/web/20110915003525/http://hardware.gt-ieee.org:80/southeastcon2009/hardware-competition).
+
+[Source code](https://github.com/wjwwood/southeastcon-2009)
+[Competition video](http://www.youtube.com/watch?v=D5072cqualw)
 
 ## Project AUTOMATE at MIT Lincoln Laboratory
 
