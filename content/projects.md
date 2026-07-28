@@ -78,6 +78,12 @@ Set up a fleet of 14 [TurtleBots](https://en.wikipedia.org/wiki/TurtleBot) and t
 
 [Course Posting](https://web.mit.edu/iap/www/iap13/searchiap/iap-BD6D0CF8E31DB284E0400312852F4A61.html)
 
+## Project AUTOMATE at MIT Lincoln Laboratory (2013)
+
+Internal competition to perform search and rescue using a combination of ground and aerial robotics.
+
+[(slides)](https://roscon.ros.org/2013/wp-content/uploads/2013/05/AUTOMATE.pdf)
+
 ## Auburn AutoMow (2009-2012)
 
 Competed for four years with Auburn University's team in the [Institute of Navigation Autonomous Lawn Mower
@@ -95,9 +101,3 @@ Competition](http://web.archive.org/web/20110915003525/http://hardware.gt-ieee.o
 
 [Source code](https://github.com/wjwwood/southeastcon-2009)
 [Competition video](http://www.youtube.com/watch?v=D5072cqualw)
-
-## Project AUTOMATE at MIT Lincoln Laboratory
-
-Internal competition to perform search and rescue using a combination of ground and aerial robotics.
-
-[(slides)](https://roscon.ros.org/2013/wp-content/uploads/2013/05/AUTOMATE.pdf)
