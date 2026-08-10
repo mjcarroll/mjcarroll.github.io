@@ -1,0 +1,9 @@
+{{- if hugo.IsProduction | or (eq site.Params.env "production") }}
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-3Y02HR8TDR"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-3Y02HR8TDR');
+</script>
+{{- end }}
