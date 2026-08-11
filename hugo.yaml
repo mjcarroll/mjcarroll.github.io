@@ -35,6 +35,8 @@ menu:
 params:
   env: production
   keywords: [Blog, Portfolio]
+  description: "Michael Carroll — robotics engineer. Side projects, talks, and civic-data explorers."
+  images: ["/og-image.png"]
   defaultTheme: dark
   profileMode:
     enabled: true
