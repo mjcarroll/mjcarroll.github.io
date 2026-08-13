@@ -6,6 +6,8 @@ A selection of independent and side projects outside of my primary roles.
 
 ## ROS Turtledex (2025-present)
 
+![ROS Turtledex](/images/projects/ros-turtles.png)
+
 A visual index of every ROS release and ROSCon logo, from ROS 1's C Turtle through ROS 2 Rolling. [It's turtles all
 the way down.](https://mjcarroll.io/ros-turtles/turtles/)
 
@@ -13,6 +15,8 @@ the way down.](https://mjcarroll.io/ros-turtles/turtles/)
 [GitHub](https://github.com/mjcarroll/ros-turtles)
 
 ## Huntsville Budget Explorer (2026)
+
+![Huntsville Budget Explorer](/images/projects/huntsville-budget.png)
 
 Interactive visualizations of the City of Huntsville, Alabama's municipal budget, built by hand from the city's own
 Annual Comprehensive Financial Reports. Covers revenue and spending flow, fund balances, debt, and a look at
@@ -23,12 +27,16 @@ Huntsville City Schools' own finances, from FY2016 through the FY2035 capital pl
 
 ## Poolboy (2026)
 
+![Poolboy](/images/projects/poolboy.png)
+
 A multi-tenant web application for tracking pool water chemistry, maintenance actions, and parameter history over
 time.
 
 [Website](https://poolboy.fly.dev)
 
 ## Madison Incident Data (2019-present)
+
+![Madison Incident Data](/images/projects/madisoncrimes.png)
 
 Scrapes incident and arrest report PDFs published by the City of Madison, Alabama Police Department, geocodes them,
 and publishes a static site with an interactive crime heatmap. Started as a 2019 hackathon project; I rebuilt it
@@ -38,6 +46,8 @@ in 2026 with an automated weekly pipeline.
 [GitHub](https://github.com/mjcarroll/madisoncrimes)
 
 ## HSV.Beer (2019-present)
+
+![HSV.Beer](/images/projects/hsvbeer.png)
 
 A site to find draft beer on tap across Huntsville-area breweries and taprooms, pulling in listings from Untappd,
 TapHunter, and other sources. I've contributed to the Nuxt-based frontend since 2019.
