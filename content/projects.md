@@ -6,8 +6,8 @@ A selection of independent and side projects outside of my primary roles.
 
 ## ROS Turtledex (2025-present)
 
-A visual index of every ROS release and ROSCon logo, from ROS 1's C Turtle through ROS 2 Rolling. Originally a Flask
-app; now frozen to a static site.
+A visual index of every ROS release and ROSCon logo, from ROS 1's C Turtle through ROS 2 Rolling. [It's turtles all
+the way down.](https://mjcarroll.io/ros-turtles/turtles/)
 
 [Website](https://mjcarroll.io/ros-turtles/)
 [GitHub](https://github.com/mjcarroll/ros-turtles)
